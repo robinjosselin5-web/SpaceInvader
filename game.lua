@@ -141,6 +141,7 @@ function Game:update(dt)
         end
     end
 
+    test
 
     Background:update(dt)
     -- ================= QUITTER =================
