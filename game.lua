@@ -140,9 +140,7 @@ function Game:update(dt)
             break
         end
     end
-
-    test
-
+    
     Background:update(dt)
     -- ================= QUITTER =================
     if love.keyboard.isDown('escape') then
